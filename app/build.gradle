@@ -28,7 +28,7 @@ dependencies {
 
     // TODO 3: Add Android-Apollo Dependencies
     implementation 'com.squareup.okhttp3:logging-interceptor:3.8.1'
-
+    compile 'com.apollographql.apollo:apollo-runtime:0.4.4'
 
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
